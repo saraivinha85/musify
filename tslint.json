@@ -1,0 +1,17 @@
+{
+  "extends": ["tslint:latest", "tslint-react"],
+  "rules": {
+    "interface-name": [true, "never-prefix"],
+    "member-access": false,
+    "no-empty-interface": false,
+    "no-submodule-imports": false,
+    "no-var-requires": false,
+    "jsx-boolean-value": false,
+    "jsx-no-multiline-js": false,
+    "jsx-wrap-multiline": false,
+    "jsx-no-lambda": false,
+    "arrow-parens": false,
+    "semicolon": [false],
+    "no-unused-expression": false
+  }
+}
