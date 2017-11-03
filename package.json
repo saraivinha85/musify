@@ -2,7 +2,9 @@
   "name": "musify",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "antd": "^2.13.8"
+  },
   "scripts": {
     "start": "react-scripts-ts-electron start",
     "build": "react-scripts-ts-electron build",
